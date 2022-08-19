@@ -1,6 +1,6 @@
 # 📁 Sobre o projeto SheCodes Basics
 
-Projeto criado para a conclusão do curso SheCodes Basics, e tinha como objetivo a utilizaçãod e todos os conhecimentos adquiridos no curso
+Projeto criado para a conclusão do curso SheCodes Basics, e tinha como objetivo a utilização de todos os conhecimentos adquiridos no curso
 O curso foca no aprendizado do desenvolvimento Front-end com a criação de projetos em cada módulo (HTML, CSS e JavaScript) 
 
 Link para visualização do projeto:
